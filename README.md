@@ -12,7 +12,7 @@
 
 ## 📥 İndir
 
-**[FC-Mod-Manager-TR İndir](https://github.com/AttoConjurer/FC-Mod-Manager-TR/releases/download/878/FCModManagerTR.zip)**
+**[FC-Mod-Manager-TR İndir](https://github.com/AttoConjurer/FC-Mod-Manager-TR/releases/download/879/FifModManagerTR.zip)**
 
 
 ---
