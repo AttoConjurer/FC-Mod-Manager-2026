@@ -162,3 +162,4 @@ fc26 mod manager, ea sports fc 26 mods, fc26 modding, fc26 mod loader, fc26 mod 
     <img src="https://img.shields.io/badge/Made%20with%20❤️%20for%20the%20EA%20Sports%20FC%2026%20community-ff69b4?style=for-the-badge" alt="Made with love">
   </a>
 </p>
+ 
